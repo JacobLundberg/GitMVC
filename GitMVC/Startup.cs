@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
+//  https://github.com/JacobLundberg/GitMVC/invitations
 namespace GitMVC
 {
     public class Startup
